@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/utkarshtri05/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/utkarshtri05/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/utkarshtri05/leetcode/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/utkarshtri05/leetcode/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/utkarshtri05/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshtri05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/utkarshtri05/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
