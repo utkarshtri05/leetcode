@@ -59,6 +59,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/utkarshtri05/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/utkarshtri05/leetcode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -72,5 +73,6 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/utkarshtri05/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/utkarshtri05/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
