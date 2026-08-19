@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/utkarshtri05/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/utkarshtri05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/utkarshtri05/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshtri05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/utkarshtri05/leetcode/tree/master/0136-single-number) |
@@ -79,6 +80,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/utkarshtri05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/utkarshtri05/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/utkarshtri05/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/utkarshtri05/leetcode/tree/master/0344-reverse-string) |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/utkarshtri05/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/utkarshtri05/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
