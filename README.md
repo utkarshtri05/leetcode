@@ -68,11 +68,13 @@
 | [0125-valid-palindrome](https://github.com/utkarshtri05/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/utkarshtri05/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/utkarshtri05/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/utkarshtri05/leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/utkarshtri05/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshtri05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/utkarshtri05/leetcode/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [0344-reverse-string](https://github.com/utkarshtri05/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/utkarshtri05/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/utkarshtri05/leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/utkarshtri05/leetcode/tree/master/0392-is-subsequence) |
 ## Queue
 |  |
 | ------- |
