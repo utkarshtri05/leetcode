@@ -38,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/utkarshtri05/leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/utkarshtri05/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshtri05/leetcode/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/utkarshtri05/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
