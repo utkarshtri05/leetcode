@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/utkarshtri05/leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/utkarshtri05/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/utkarshtri05/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/utkarshtri05/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
@@ -48,6 +49,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/utkarshtri05/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/utkarshtri05/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/utkarshtri05/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/utkarshtri05/leetcode/tree/master/0389-find-the-difference) |
@@ -89,6 +91,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/utkarshtri05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/utkarshtri05/leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/utkarshtri05/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/utkarshtri05/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/utkarshtri05/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/utkarshtri05/leetcode/tree/master/0344-reverse-string) |
@@ -120,4 +123,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/utkarshtri05/leetcode/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/utkarshtri05/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
