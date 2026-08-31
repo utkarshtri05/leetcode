@@ -44,6 +44,7 @@
 | [0050-powx-n](https://github.com/utkarshtri05/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/utkarshtri05/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/utkarshtri05/leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/utkarshtri05/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/utkarshtri05/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/utkarshtri05/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/utkarshtri05/leetcode/tree/master/0412-fizz-buzz) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/utkarshtri05/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/utkarshtri05/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/utkarshtri05/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/utkarshtri05/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/utkarshtri05/leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/utkarshtri05/leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/utkarshtri05/leetcode/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
