@@ -45,6 +45,7 @@
 | [0067-add-binary](https://github.com/utkarshtri05/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/utkarshtri05/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/utkarshtri05/leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/utkarshtri05/leetcode/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/utkarshtri05/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/utkarshtri05/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/utkarshtri05/leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/utkarshtri05/leetcode/tree/master/0412-fizz-buzz) |
 ## Queue
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/utkarshtri05/leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/utkarshtri05/leetcode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
