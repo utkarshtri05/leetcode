@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/utkarshtri05/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/utkarshtri05/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/utkarshtri05/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/utkarshtri05/leetcode/tree/master/0070-climbing-stairs) |
