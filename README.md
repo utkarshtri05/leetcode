@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/utkarshtri05/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshtri05/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/utkarshtri05/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/utkarshtri05/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/utkarshtri05/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/utkarshtri05/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/utkarshtri05/leetcode/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@
 | [0050-powx-n](https://github.com/utkarshtri05/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/utkarshtri05/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/utkarshtri05/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/utkarshtri05/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/utkarshtri05/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/utkarshtri05/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/utkarshtri05/leetcode/tree/master/0268-missing-number) |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/utkarshtri05/leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/utkarshtri05/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/utkarshtri05/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/utkarshtri05/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/utkarshtri05/leetcode/tree/master/0392-is-subsequence) |
@@ -147,4 +150,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/utkarshtri05/leetcode/tree/master/0258-add-digits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/utkarshtri05/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
