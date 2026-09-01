@@ -21,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/utkarshtri05/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshtri05/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/utkarshtri05/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/utkarshtri05/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/utkarshtri05/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/utkarshtri05/leetcode/tree/master/0217-contains-duplicate) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/utkarshtri05/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/utkarshtri05/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/utkarshtri05/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/utkarshtri05/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/utkarshtri05/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/utkarshtri05/leetcode/tree/master/0070-climbing-stairs) |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshtri05/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/utkarshtri05/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/utkarshtri05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/utkarshtri05/leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/utkarshtri05/leetcode/tree/master/0067-add-binary) |
