@@ -49,6 +49,7 @@
 | [0013-roman-to-integer](https://github.com/utkarshtri05/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/utkarshtri05/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/utkarshtri05/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/utkarshtri05/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/utkarshtri05/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/utkarshtri05/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/utkarshtri05/leetcode/tree/master/0204-count-primes) |
@@ -60,6 +61,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/utkarshtri05/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/utkarshtri05/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -182,4 +184,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/utkarshtri05/leetcode/tree/master/0204-count-primes) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/utkarshtri05/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
