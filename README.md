@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/utkarshtri05/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/utkarshtri05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshtri05/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/utkarshtri05/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/utkarshtri05/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshtri05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/utkarshtri05/leetcode/tree/master/0136-single-number) |
@@ -63,6 +64,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/utkarshtri05/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/utkarshtri05/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/utkarshtri05/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/utkarshtri05/leetcode/tree/master/0704-binary-search) |
