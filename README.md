@@ -196,4 +196,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/utkarshtri05/leetcode/tree/master/0069-sqrtx) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/utkarshtri05/leetcode/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
