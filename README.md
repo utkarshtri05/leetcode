@@ -106,6 +106,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/utkarshtri05/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/utkarshtri05/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/utkarshtri05/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshtri05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -122,6 +123,7 @@
 | [0013-roman-to-integer](https://github.com/utkarshtri05/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/utkarshtri05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/utkarshtri05/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/utkarshtri05/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/utkarshtri05/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/utkarshtri05/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/utkarshtri05/leetcode/tree/master/0242-valid-anagram) |
@@ -143,10 +145,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshtri05/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/utkarshtri05/leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshtri05/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/utkarshtri05/leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
