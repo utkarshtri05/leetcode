@@ -1,4 +1,4 @@
-ko# leetcode
+# leetcode
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
