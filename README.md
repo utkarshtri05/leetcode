@@ -80,6 +80,7 @@
 | [0035-search-insert-position](https://github.com/utkarshtri05/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/utkarshtri05/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/utkarshtri05/leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/utkarshtri05/leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarshtri05/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/utkarshtri05/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -250,4 +251,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarshtri05/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/utkarshtri05/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
